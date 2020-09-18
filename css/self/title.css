@@ -1,0 +1,10 @@
+body{
+	width: 310px;
+	height: 200px;
+}
+
+#source{
+	width: 100%;
+	text-align: center;
+	line-height: 100px;
+}
